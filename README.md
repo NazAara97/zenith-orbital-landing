@@ -1,16 +1,46 @@
-# React + Vite
+# Zenith Orbital Resorts - Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, modern landing page for **Zenith Orbital Resorts**, a futuristic space-tourism experience. Built with **React** and **Tailwind CSS**, featuring AI Concierge services, investor pitch information, and a booking CTA.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
 
-## React Compiler
+You can view the live demo [here](https://zenith-orbital-landing.vercel.app/).
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Responsive Design:** Fully responsive for mobile, tablet, and desktop.
+- **Hero Section:** Eye-catching hero banner with tagline and call-to-action buttons.
+- **About Section:** Highlights the luxury space experience.
+- **AI Concierge:** Showcases personalized itineraries and seamless services.
+- **Investor Pitch:** Presents the business opportunity with styled content and images.
+- **Booking CTA:** Encourages visitors to reserve their orbit.
+- **Footer:** Simple footer with links to Privacy and Terms.
+
+---
+
+## Technologies Used
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Vercel for deployment
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v16+ recommended)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/NazAara97/zenith-orbital-landing.git
